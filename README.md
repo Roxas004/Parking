@@ -13,7 +13,7 @@ Application web permettant d’attribuer automatiquement des places de parking a
 La structure du projet suit une architecture modulaire.
 ```
 Parking/
-├── 
+├── docs
 │ 
 └──
 ```
