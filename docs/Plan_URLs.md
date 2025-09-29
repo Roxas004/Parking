@@ -11,7 +11,7 @@
 
 ## 2. Espace utilisateur (après connexion)
 - `/vos-reservations` → Liste des réservations de l’utilisateur
-- `/profil` → Informations personnelles / modification du compte
+- `/paramètre` → Informations personnelles / modification du compte
 
 ## 3. Espace administrateur
 - `/admin/dashboard` → Tableau de bord général
