@@ -21,6 +21,7 @@
 - `/admin/places` → Liste des places                                            `Resource Controllers`
 - `/admin/file-attente` → Liste d’attente (modification possible de l’ordre)    `Resource Controllers`
 - `/admin/historique` → Historique des attributions
+- `/admin/paramètre` → Informations personnelles / modification du compte       `Resource Controllers`
 
 ## 4. Documentation
 
