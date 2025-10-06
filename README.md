@@ -23,7 +23,8 @@ Parking/
 ```
 
 ## Maquette
-https://www.figma.com/design/A9Rt2tfsoxS0vlKECB24gH/AP-PARKING?node-id=0-1&t=m45QhLQ2OwaM6wH3-1
+- https://www.figma.com/design/A9Rt2tfsoxS0vlKECB24gH/AP-PARKING?node-id=0-1&t=m45QhLQ2OwaM6wH3-1
+- [Maquette PNG](docs/Maquette%20parking)
 
 ## Documentation
 - [MCD](docs/MCD/Capture%20d'écran%202025-10-06%20150532.png)
