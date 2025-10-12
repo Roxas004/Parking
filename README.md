@@ -7,7 +7,7 @@ Application web permettant d’attribuer automatiquement des places de parking a
 ## 🛠️ Technologies
 - **Backend** : PHP, MySQL
 - **Frontend** : HTML5, CSS
-- **Framwork**: Laravel
+- **Framwork**: Laravel, Tailswind
 
 ## Project Structure
 La structure du projet suit une architecture modulaire.
